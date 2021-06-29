@@ -33,6 +33,8 @@ In a Decision tree, there are two nodes, which are the Decision Node and Leaf No
 
 ![decision-tree-classification-algorithm](https://user-images.githubusercontent.com/71040750/123836861-cbbc4f80-d927-11eb-8b0c-77eda2e5eef2.png)
 
+source: https://www.javatpoint.com/
+
 
 
 
